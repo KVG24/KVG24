@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KVG24 also known as Vadym Kozynets.
+- 👋 Hi, I’m Vadym Kozynets.
 - 🌱 I’m currently learning Full Stack Web Development with the help of The Odin Project.
 - 📫 My email is zippomusic@gmail.com
 
